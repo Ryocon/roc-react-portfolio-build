@@ -2,7 +2,7 @@
 
 roc-react-portfolio - [Github Repo](https://github.com/Ryocon/roc-react-portfolio)
 <br>
-Deployed on Github Pages - [Deployed](https://ryocon.github.io/roc-react-portfolio/)
+Deployed on Github Pages - [Deployed](https://ryocon.github.io/roc-react-portfolio-build/)
 
 <img src=https://img.shields.io/badge/License-MIT-orange.svg>
 
@@ -33,4 +33,7 @@ Deployed on Github Pages - [Deployed](https://ryocon.github.io/roc-react-portfol
 
   ## Screenshots
 
-![Test]()
+![Home/About page](./src/assets/images/roc-react-1.PNG)
+![Projects page](./src/assets/images/roc-react-2.PNG)
+![Contact page](./src/assets/images/roc-react-3.PNG)
+![CV page](./src/assets/images/roc-react-4.PNG)
